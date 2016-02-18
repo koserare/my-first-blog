@@ -1,0 +1,27 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+/AppData
+/Music
+/Downloads
+/Desktop
+/Documents
+/AndroidStudioProjects
+/Contacts
+/Favourites
+/OneDrive
+/Pictures
+/Searches
+/SkyDrive
+/Videos
+/3D Objects
+NTUSER.DAT
+ntuser*
+/.android
+/.gradle
+/.idlerc
+/.RapidMiner
+/.VirtualBox
